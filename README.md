@@ -15,3 +15,7 @@ The footprint is based on
   `pt2399.kicad_sym` file
 
 [electrosmash]: https://www.electrosmash.com/pt2399-analysis
+
+## License
+
+MIT
